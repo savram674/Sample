@@ -1,1 +1,3 @@
 this is my first file in git
+i am trying to create patch to demonstrate git am
+auto commit mode
