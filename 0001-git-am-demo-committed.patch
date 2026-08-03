@@ -1,0 +1,22 @@
+From af99d6dc4677d9fa61f2eaf4bf23945286bb7fe4 Mon Sep 17 00:00:00 2001
+From: savram <savitharamesh674@gmail.com>
+Date: Mon, 3 Aug 2026 21:50:19 +0530
+Subject: [PATCH] git am demo committed
+
+---
+ test.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/test.txt b/test.txt
+index a85a5d6..8649115 100644
+--- a/test.txt
++++ b/test.txt
+@@ -1 +1,3 @@
+-this is my first file in git
+\ No newline at end of file
++this is my first file in git
++i am trying to create patch to demonstrate git am
++auto commit mode
+-- 
+2.50.0.windows.2
+
