@@ -1,0 +1,29 @@
+From 729952e17872b578431c9e196e119ea8e3c8b626 Mon Sep 17 00:00:00 2001
+From: savram <savitharamesh674@gmail.com>
+Date: Mon, 3 Aug 2026 21:32:49 +0530
+Subject: [PATCH] test-patch committed
+
+---
+ test-patch | 2 ++
+ test2.txt  | 1 +
+ 2 files changed, 3 insertions(+)
+ create mode 100644 test-patch
+
+diff --git a/test-patch b/test-patch
+new file mode 100644
+index 0000000..635c12d
+--- /dev/null
++++ b/test-patch
+@@ -0,0 +1,2 @@
++new file created for patch purpose
++
+diff --git a/test2.txt b/test2.txt
+index 09b6644..1182ff7 100644
+--- a/test2.txt
++++ b/test2.txt
+@@ -1 +1,2 @@
+ this is the sample file added today
++this demonstrates patch demo
+-- 
+2.50.0.windows.2
+
