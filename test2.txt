@@ -1,2 +1,3 @@
 this is the sample file added today
 this demonstrates patch demo
+line added to demonstrate git diff
