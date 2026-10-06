@@ -1,0 +1,20 @@
+From 53afefa47fffce6b7ba70226f02b19c41b349dfe Mon Sep 17 00:00:00 2001
+From: savram <savitharamesh674@gmail.com>
+Date: Mon, 3 Aug 2026 22:00:35 +0530
+Subject: [PATCH] demo patch
+
+---
+ demo | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 demo
+
+diff --git a/demo b/demo
+new file mode 100644
+index 0000000..2ce1dcf
+--- /dev/null
++++ b/demo
+@@ -0,0 +1 @@
++can patch be applied when the repo contents are different
+-- 
+2.50.0.windows.2
+
